@@ -1,0 +1,11 @@
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\bin\Debug\netcoreapp2.1\Lesson 03 Conditional statements.deps.json
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\bin\Debug\netcoreapp2.1\Lesson 03 Conditional statements.runtimeconfig.json
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\bin\Debug\netcoreapp2.1\Lesson 03 Conditional statements.runtimeconfig.dev.json
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\bin\Debug\netcoreapp2.1\Lesson 03 Conditional statements.dll
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\bin\Debug\netcoreapp2.1\Lesson 03 Conditional statements.pdb
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\obj\Debug\netcoreapp2.1\Lesson 03 Conditional statements.csprojAssemblyReference.cache
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\obj\Debug\netcoreapp2.1\Lesson 03 Conditional statements.csproj.CoreCompileInputs.cache
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\obj\Debug\netcoreapp2.1\Lesson 03 Conditional statements.AssemblyInfoInputs.cache
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\obj\Debug\netcoreapp2.1\Lesson 03 Conditional statements.AssemblyInfo.cs
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\obj\Debug\netcoreapp2.1\Lesson 03 Conditional statements.dll
+C:\Users\theob\source\repos\Lesson 03 Conditional statements\obj\Debug\netcoreapp2.1\Lesson 03 Conditional statements.pdb
