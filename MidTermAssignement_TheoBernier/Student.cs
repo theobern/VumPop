@@ -41,9 +41,9 @@ namespace MidTermAssignement_TheoBernier
             info = info + ($"Student {this.fullName} score is {this.averageScore.ToString()}");
             info = info + ($"\nStudent {this.fullName} is living in {this.Adress.City}");
             info = info + ($"\nStudent {this.fullName} is living in {this.Adress.Country}");
-            info = info + ($"Student {this.fullName} adress is {this.fullAdress}");
-            info = info + ($"Student {this.fullName} age is {this.age}");
-            info = info + ($"Student {this.fullName} student number is {this.studentNumber}");
+            info = info + ($"\nStudent {this.fullName} adress is {this.fullAdress}");
+            info = info + ($"\nStudent {this.fullName} age is {this.age}");
+            info = info + ($"\nStudent {this.fullName} student number is {this.studentNumber}");
             return info;
         }
 
