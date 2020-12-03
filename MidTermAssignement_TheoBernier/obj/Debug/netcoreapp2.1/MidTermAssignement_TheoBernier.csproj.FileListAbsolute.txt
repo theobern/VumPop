@@ -1,0 +1,11 @@
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\bin\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.deps.json
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\bin\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.runtimeconfig.json
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\bin\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.runtimeconfig.dev.json
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\bin\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.dll
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\bin\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.pdb
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\obj\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.csprojAssemblyReference.cache
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\obj\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.csproj.CoreCompileInputs.cache
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\obj\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.AssemblyInfoInputs.cache
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\obj\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.AssemblyInfo.cs
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\obj\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.dll
+C:\Users\theob\Desktop\MidTermAssignement_TheoBernier\obj\Debug\netcoreapp2.1\MidTermAssignement_TheoBernier.pdb
